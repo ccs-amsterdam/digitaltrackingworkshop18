@@ -1,0 +1,5 @@
+<p><i>
+This is an invitation-only event.
+</i> 
+All participants are actively involved in research with and/or the development of tools for tracking digital trace data.
+</p>

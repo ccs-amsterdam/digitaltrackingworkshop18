@@ -1,0 +1,7 @@
+<h2>Prepare</h2>
+
+<p class="byline-italic">
+
+Collecting digital trace data is a broad issue, and there are certain to be many important barriers, opportunities and points for debate that we are not aware of. We heartily invite everyone to contribute to shaping this workshop by posting ideas and engaging in discussions on this project’s Github page. 
+ 
+</p>

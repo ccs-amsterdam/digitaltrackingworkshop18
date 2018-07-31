@@ -1,0 +1,24 @@
+<section class="sponsors">
+<div class="title-col">
+<a name="sponsors" class="section-jump"> </a>
+<h2>The Sponsors</h2>
+
+<p>ERC Starting Grant “EXPO: Europeans Exposed to dissimilar views in the media: Investigating backfire effects” (PI Magdalena Wojcieszak), funded by the European Commission</p>
+</div>
+  <div class="further-col">
+    <br><a href = "https://erc.europa.eu"></a><img src = "http://www.fcarreras.org/images/545817/default.png" alt = "ERC logo" width = 150></a>
+  </div>
+</div>
+</section>
+
+<section class="sponsors">
+   <div class="title-col">
+     JEDS project "Tracking the Filter Bubble" (PI Wouter van Atteveldt, co-applicants Laura Holling, Damian Trilling, Antske Fokkens, Judith Möller, Kasper Welbers and Natali Helberger), funded by NWO and the Netherlands eScience Center.
+   </div>
+    <div class="further-col">
+       <a href="https://www.esciencecenter.nl"><img src="https://www.esciencecenter.nl/img/cdn/logo_escience_center.png" alt="eScience Center Logo" width = 200></a>
+       <a href="https://www.nwo.nl"><img src="https://www.nwo.nl/binaries/articleImage/content/gallery/logos/nwo/nwo_logo_en_lowres.jpg" alt="NWO Logo" width = 200></a>
+     <br>
+   </div>
+</section>
+

@@ -1,0 +1,3 @@
+ <div class="foot-wrap">
+   <p>Contact <a href="mailto:k.welbers@vu.nl">k.welbers@vu.nl</a> for more information about the workshop.</p>
+ </div>

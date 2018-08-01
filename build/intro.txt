@@ -3,10 +3,13 @@ The Workshop Aims
 </h2>
 
 <p>
-Digital trace data is really cool, and you guys are cool as well, so let's, you know, fix stuff.
+There are many new and existing research questions that could be (better) addressed with data about online behaviour at the level of individuals. Although this data is somewhere out there in the digital traces that people leave online, tracking digital traces faces many technological, legal and ethical barriers. The goal of this workshop is to gather researcher that are interested in methods for tracking digital trace data, in order to exchange ideas, identify solutions and best practices, and foster collaborations.
 <br>
 </p>
 
 <p>
-And here I'll say it again, because having two paragraphs is just decent formatting
+The ways in which people traverse the online world will continue to change. Beyond this specific workshop, we therefore hope to use this event to establish a community of researchers that are interested in participating in an ongoing dialogue about digital tracking methods, and if required contribute to the development of new tools. 
 </p>
+
+
+

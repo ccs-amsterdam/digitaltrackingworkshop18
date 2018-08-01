@@ -1,3 +1,3 @@
  <div class="foot-wrap">
-   <p>Contact <a href="mailto:k.welbers@vu.nl">k.welbers@vu.nl</a> for more information about the workshop.</p>
+   <p>This event is organized by Wouter van Atteveldt, Kasper Welbers and Magdalena Wojcieszak. Please contact <a href="mailto:k.welbers@vu.nl">k.welbers@vu.nl</a> for any questions, comments or ideas.</p>
  </div>

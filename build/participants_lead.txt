@@ -1,5 +1,5 @@
 <p><i>
 This is an invitation-only event.
 </i> 
-All participants are actively involved in research with and/or the development of tools for tracking digital trace data.
+If you have been invited (or just really should have been invited) and want to participate, please send an email to <a href="mailto:k.welbers@vu.nl">k.welbers@vu.nl</a>
 </p>

@@ -1,6 +1,8 @@
 source('build/lib.r')
 
-css = create_css(top_button_col='#0089d1',
+
+css = create_css(participants = css_participants('participants/participants.csv'),
+                 top_button_col='#0089d1',
                  top_button_border_col='#0089d1', 
                  intro_col='#FFFFFF', 
                  prepare_col = '#FFFFFF',
@@ -22,6 +24,7 @@ build_html(css = css,
            intro = readtxt('build/intro.txt'),
            prepare = readtxt('build/prepare.txt'),
            participants_lead = readtxt('build/participants_lead.txt'),
+           participants = html_participants('participants/participants.csv'),
            location = "The specific location will soon be announced",
            google_maps = 'https://maps.google.com/maps?q=amsterdam&t=&z=13&ie=UTF8&iwloc=&output=embed',  # https://www.embedgooglemap.net/
            sponsors = readtxt('build/sponsors.txt'),

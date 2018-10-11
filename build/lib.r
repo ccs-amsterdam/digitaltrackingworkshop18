@@ -5,6 +5,12 @@ sink_file <- function(x, filename='index.html') {
   filename
 }
 
+google_maps <- function(urls, width=600, height=500) {
+  template = '<div class="furt{her-col">
+     <iframe src="%s" width="%s" height="%s" frameborder="0" style="border:0" allowfullscreen></iframe>
+</div>'
+  paste(sprintf(template, urls, width, height), collapse='\n\n')
+}
 
 readtxt <- function(fn) readChar(fn, file.info(fn)$size)
 
@@ -38,7 +44,7 @@ get_images <- function(participant_csv) {
   d = read.csv(participant_csv)
   images = list.files('images/participants', full.names = T)
   
-  d$name = paste(d$firstname,ds$surname)
+  d$name = paste(d$firstname,d$surname)
   d$image = sapply(d$name, function(x) grep(x, images, value=T)[1])
 
   for (i in which(is.na(d$image))) {
@@ -54,6 +60,8 @@ get_images <- function(participant_csv) {
 nospace <- function(x) gsub(' ', '', x, fixed=T)
 
 css_participants <- function(participant_csv) {
+  d = read.csv(participant_csv)
+  
   image = get_images(participant_csv)
   name = nospace(paste0(d$firstname, '-', d$surname))
   css = paste0('.', name, ' .participant-image {background: url(', sapply(image, embed_image), ') no-repeat; background-size: cover; }')

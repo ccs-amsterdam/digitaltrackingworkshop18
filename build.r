@@ -25,8 +25,8 @@ build_html(css = css,
            prepare = readtxt('build/prepare.txt'),
            participants_lead = readtxt('build/participants_lead.txt'),
            participants = html_participants('participants/participants.csv'),
-           location = "The specific location will soon be announced",
-           google_maps = 'https://maps.google.com/maps?q=amsterdam&t=&z=13&ie=UTF8&iwloc=&output=embed',  # https://www.embedgooglemap.net/
+           location = readtxt('build/location.txt'),
+           google_maps = google_maps(c('https://maps.google.com/maps?q=crea%20amsterdam&t=&z=13&ie=UTF8&iwloc=&output=embed', 'https://maps.google.com/maps?q=dak%20van%20amsterdam&t=&z=13&ie=UTF8&iwloc=&output=embed')),  # https://www.embedgooglemap.net/
            sponsors = readtxt('build/sponsors.txt'),
            footer = readtxt('build/footer.txt'),
            github = 'ccs-amsterdam/digitaltrackingworkshop18')

@@ -10,7 +10,7 @@ Supported by
 Welcome to the repository for the Mobile and Online Tracking Workshop. The event is organized as part of the JEDS project ["Tracking the Filter Bubble”](http://ccs.amsterdam/projects/jeds/), funded by NWO and the Netherlands eScience Centre, and as part of the ERC Starting Grant [“EXPO: Europeans Exposed to dissimilar views in the media: Investigating backfire effects”] (https://www.cordis.europa.eu/project/rcn/214597_en.html), funded by the European Commission.
 
 * [Participants](http://digitaltrackingworkshop.ccs.amsterdam/#participants)  
-* [Schedule](schedule.md)
+* [Schedule](preliminary_schedule.md)
 * [We welcome you to add talking points or make any suggestions by making [issues](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues).
 
 Event hashtag is `#DigitalTracking18`

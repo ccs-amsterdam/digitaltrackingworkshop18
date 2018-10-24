@@ -17,12 +17,12 @@ Location: @CREA (https://www.crea.nl/over-crea/contact/?lang=en)
 -   9:00 - 10:00 Session 3: Sampling & Analysing 
                  ([#7](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues/7), 
                   [#6](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues/6)) 
-  - Discussion starter: [Damian Trilling](https://github.com/damian0604)
+   - Discussion starter: [Damian Trilling](https://github.com/damian0604)
 -  10:15 - 11:15 Breakout session
 -  11:30 - 12:30 Session 4: Legal issues, secure storage, privacy, sharing and anonymization 
                  ([#1](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues/1), 
                   [#4](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues/4))
-  - Discussion starters: [Judith Möller](https://github.com/JudithMoeller), [Chris Karr](https://github.com/audaciouscode)
+   - Discussion starters: [Judith Möller](https://github.com/JudithMoeller), [Chris Karr](https://github.com/audaciouscode)
 -  12:30 - 13:00 Closing roundtable
 -  13:00  Close
 

@@ -13,7 +13,7 @@ Location: @CREA (https://www.crea.nl/over-crea/contact/?lang=en)
    - [Ericka Menchen-Trevino and Chris Karr: from Roxy to Webhistorian and Back Again](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues/9)
 -  16:30 - 17:00 Day 1 wrap-up: What can we do? Where to?
 - 17:00 - 18:00 Drinks in CREA
-- 18:30 - Late Drinks and food at Wouter's place, [Brouwersgracht 935](https://goo.gl/maps/m1iAkCGmjWs). Mobile phone / whatsapp: +31642740725
+- 18:30 - Late Drinks and food at Wouter's place, [Brouwersgracht 935](https://goo.gl/maps/m1iAkCGmjWs). Mobile phone: +31642740725 [whats app group](https://chat.whatsapp.com/ClqtLe9AFsvIkuNjk451Lb)
 
 ## Day 2 Dak van Amsterdam
 

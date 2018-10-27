@@ -14,6 +14,8 @@ Location: @CREA (https://www.crea.nl/over-crea/contact/?lang=en)
 
 ## Day 2 Dak van Amsterdam
 
+Note: Times are in *winter time* (time changes between Saturday and Sunday!)
+
 -   9:00 - 10:00 Session 3: Sampling & Analysing 
                  ([#7](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues/7), 
                   [#6](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues/6))

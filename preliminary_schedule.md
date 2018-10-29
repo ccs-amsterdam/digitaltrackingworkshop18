@@ -10,7 +10,7 @@ Location: @CREA (https://www.crea.nl/over-crea/contact/?lang=en)
    - [Vincent van Hees & The Amsterdam Team: An Overview of Tracking Tools](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues/8) ([Slides](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/files/2523397/vanHees_DigitalTrackingWorkshop_2018.pptx))
      - ([the whitepaper on tracking solutions mentioned in the talk](https://github.com/Filter-Bubble/Mobile-Network-Tracking-Review/blob/master/WhitePaper.md))
 -  15:15 - 16:15 Session 2: Mobile tracking ([#3](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues/3)). 
-   - [Ericka Menchen-Trevino and Chris Karr: from Roxy to Webhistorian and Back Again](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues/9)
+   - [Ericka Menchen-Trevino and Chris Karr: from Roxy to Webhistorian and Back Again](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues/9) ([slides](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/files/2524959/Roxy.Project.pdf))
 -  16:30 - 17:00 Day 1 wrap-up: What can we do? Where to?
 
 ## Day 2 Dak van Amsterdam

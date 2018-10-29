@@ -12,6 +12,7 @@ Welcome to the repository for the Mobile and Online Tracking Workshop. The event
 * [Participants](http://digitaltrackingworkshop.ccs.amsterdam/#participants)  
 * [Schedule](preliminary_schedule.md)
 * [We welcome you to add talking points or make any suggestions by making [issues](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/issues).
+* Bibliography of [relevant papers](https://github.com/ccs-amsterdam/digitaltrackingworkshop18/files/2522576/literature.pdf) from participants, composed by [Felicia](https://github.com/FeLoe). Let us know if you have any papers that should be added!
 
 Event hashtag is `#DigitalTracking18`
 
